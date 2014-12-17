@@ -6,7 +6,7 @@
     "author": "nagblock",
     "license": "Apache License 2.0",
     "version": "0.1",
-    "icon": "data/icon-32.png",
+    "icon": "data/icon-48.png",
     "icon64": "data/icon-64.png",
     "homepage": "https://github.com/nagblock/nagblock-standard-firefox"
 }
